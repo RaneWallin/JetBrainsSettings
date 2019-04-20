@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/RaneWallin/Redux-Friends.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RaneWallin/Sprint-Challenge-Redux-Smurfs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
