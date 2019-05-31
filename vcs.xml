@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/RaneWallin/webdb-iv-guided.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RaneWallin/webdb-iv-challenge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
