@@ -737,22 +737,22 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ededed" />
+        <option name="BACKGROUND" value="414141" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ededed" />
+        <option name="BACKGROUND" value="393939" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ededed" />
+        <option name="BACKGROUND" value="4b4b4b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
