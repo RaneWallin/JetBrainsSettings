@@ -250,6 +250,10 @@
           <option name="url" value="https://github.com/RaneWallin/JavaScript-IV.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RaneWallin/DOM-I.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
