@@ -306,6 +306,14 @@
           <option name="url" value="https://github.com/RaneWallin/React-Router-Movies.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.nordstrom.com/hack/summer-2019-project-space/team4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.nordstrom.com" />
+          <option name="userName" value="rane.wallin@nordstrom.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
