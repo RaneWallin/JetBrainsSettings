@@ -350,8 +350,16 @@
           <option name="url" value="https://github.com/Hector-bit/React-Router-Movies.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KeshawnSharper/React-Router-Movies.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mpvn30/React-Router-Movies" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Hector" />
+    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Mike" />
   </component>
 </application>
