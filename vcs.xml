@@ -330,8 +330,12 @@
           <option name="url" value="https://github.com/dantebui/React-Router-Movies.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/foobar404-lambda/React-Router-Movies.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Dante" />
+    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Austin" />
   </component>
 </application>
