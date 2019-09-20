@@ -366,8 +366,12 @@
           <option name="url" value="https://github.com/vannasok/React-Router-Movies.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/social-tours/front-end-fabric-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Vanna" />
+    <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
   </component>
 </application>
