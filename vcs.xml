@@ -374,6 +374,14 @@
           <option name="url" value="https://github.com/social-tours/back-end.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Hackbit/reactriot2019-lambdarioteers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RaneWallin/open-pixel-art.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
