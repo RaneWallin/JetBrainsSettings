@@ -410,8 +410,12 @@
           <option name="url" value="https://github.com/foobar404-lambda/Sprint-Challenge-Advanced-React.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mpvn30/Sprint-Challenge-Advanced-React.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Austin" />
+    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Mike" />
   </component>
 </application>
