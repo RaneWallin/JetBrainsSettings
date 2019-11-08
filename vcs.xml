@@ -422,8 +422,12 @@
           <option name="url" value="https://github.com/LambdaSchool/webapi-ii-challenge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Hector-bit/node-db-challenge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Cori" />
+    <option name="cloneParentDir" value="C:\Users\Rane\LambdaStudentProjects\Hector" />
   </component>
 </application>
