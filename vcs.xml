@@ -450,8 +450,12 @@
           <option name="url" value="https://github.com/RaneWallin/sei-prp71-underbar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RaneWallin/sei-prp71-javascript-koans.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rane\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\Rane\WebstormProjects" />
   </component>
 </application>
